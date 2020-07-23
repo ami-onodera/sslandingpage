@@ -1,0 +1,26 @@
+h2 {
+  color: #F4E7FD;
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+.all-cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.card {
+  background-color: #b2b1c5;
+  width: 200px;
+  padding: 20px;
+  border-radius: 3px;
+  text-align: center;
+  border: 1px solid rgb(64, 44, 142)
+}
+
+.card img {
+  height: 100px;
+}
